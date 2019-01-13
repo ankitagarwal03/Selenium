@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="131448" started-at="2018-08-22T15:30:04Z" finished-at="2018-08-22T15:32:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="131448" started-at="2018-08-22T15:30:04Z" finished-at="2018-08-22T15:32:16Z">
+      <class name="bookmyshow.BookMyShow">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:bookmyshow.BookMyShow@1aeed2f]" name="openBrowser" is-config="true" duration-ms="49698" started-at="2018-08-22T21:00:04Z" finished-at="2018-08-22T21:00:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="handelTextBox()[pri:0, instance:bookmyshow.BookMyShow@1aeed2f]" name="handelTextBox" duration-ms="20792" started-at="2018-08-22T21:00:54Z" finished-at="2018-08-22T21:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handelTextBox -->
+        <test-method status="PASS" signature="handelLink()[pri:1, instance:bookmyshow.BookMyShow@1aeed2f]" name="handelLink" duration-ms="30297" started-at="2018-08-22T21:01:15Z" finished-at="2018-08-22T21:01:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handelLink -->
+        <test-method status="PASS" signature="handelText()[pri:2, instance:bookmyshow.BookMyShow@1aeed2f]" name="handelText" duration-ms="10102" started-at="2018-08-22T21:01:45Z" finished-at="2018-08-22T21:01:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handelText -->
+        <test-method status="PASS" signature="handelButton()[pri:3, instance:bookmyshow.BookMyShow@1aeed2f]" name="handelButton" duration-ms="11332" started-at="2018-08-22T21:01:55Z" finished-at="2018-08-22T21:02:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handelButton -->
+        <test-method status="PASS" signature="handleMouseHover()[pri:4, instance:bookmyshow.BookMyShow@1aeed2f]" name="handleMouseHover" duration-ms="3290" started-at="2018-08-22T21:02:07Z" finished-at="2018-08-22T21:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleMouseHover -->
+        <test-method status="PASS" signature="handleAutoComplete()[pri:5, instance:bookmyshow.BookMyShow@1aeed2f]" name="handleAutoComplete" duration-ms="5783" started-at="2018-08-22T21:02:10Z" finished-at="2018-08-22T21:02:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleAutoComplete -->
+        <test-method status="PASS" signature="handleImage()[pri:6, instance:bookmyshow.BookMyShow@1aeed2f]" name="handleImage" duration-ms="87" started-at="2018-08-22T21:02:16Z" finished-at="2018-08-22T21:02:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleImage -->
+      </class> <!-- bookmyshow.BookMyShow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
